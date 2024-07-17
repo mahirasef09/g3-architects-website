@@ -160,4 +160,8 @@ section {
   .team-imgs{
     grid-template-columns: repeat(1, 1fr);
   }
+
+  .team-features{
+    margin-left: 20px;
+}
 }
